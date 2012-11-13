@@ -87,7 +87,7 @@
 	                                        jacoco-maven-plugin
 	                                    </artifactId>
 	                                    <versionRange>
-	                                        [0.5.10.201208310627,)
+	                                        [${jacoco.version},)
 	                                    </versionRange>
 	                                    <goals>
 	                                        <goal>prepare-agent</goal>
