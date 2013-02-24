@@ -1,2 +1,1 @@
-PressGangCCMSRESTCommon
-=======================
+This project is the REST interface that sits above any version specific REST endpoints. It is a very simple project, and only provides information on the versions of the CCMS REST services that are available.
