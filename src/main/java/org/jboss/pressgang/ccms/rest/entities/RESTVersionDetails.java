@@ -9,6 +9,7 @@ public class RESTVersionDetails
     private String version = null;
     private String state = null;
     private String path = null;
+    private String build = null;
     
     public String getVersion() {
         return version;
@@ -16,6 +17,14 @@ public class RESTVersionDetails
     
     public void setVersion(String version) {
         this.version = version;
+    }
+
+    public String getBuild() {
+        return build;
+    }
+
+    public void setBuild(String build) {
+        this.build = build;
     }
 
     public String getState() {
