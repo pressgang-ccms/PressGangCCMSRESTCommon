@@ -10,7 +10,7 @@
 
     <groupId>org.jboss.pressgang.ccms</groupId>
     <artifactId>pressgang-ccms-rest</artifactId>
-    <version>1.7-SNAPSHOT</version>
+    <version>1.7</version>
 
     <name>PressGang CCMS REST Common</name>
     <url>https://community.jboss.org/en/pressgang</url>
